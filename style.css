@@ -1,13 +1,42 @@
 body {
   display: flex;
+  
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-image: url('logo.svg');
 }
 .Todo div , button{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+}
+ul li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+#inputbox {
+  display: flex;
+  flex-direction: space-between;
+}
+.Todo input {
+  background-color: rgb(245,245,245);
+  padding: 10px;
+  margin: 24px;
+  border: none;
+  outline: none;
+  
+}
+.Todo {
+  background-color: rgb(255,255,255,0.5);
+  transform: scale(1.5);
+  margin-top: 100%;
+  margin-bottom: 100%;
+  padding: 30px;
+  margin-left: 100%;
+  margin-right: 100%;
+  border-radius: 30px;
 }
 img {
   width: 150px;;
