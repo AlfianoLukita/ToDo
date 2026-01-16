@@ -9,11 +9,12 @@ because I'm just learning CRUD so it's still very basic.
 
 ## features
 - add task
-
+- delete task
+- checked task
 
 
 ## Author
 © AlfianoLukita 2026 
 This project is MIT licensed. You can use and modify it, but please keep credit. 
 
-## Version v0.0.2
+## Version v0.0.3
