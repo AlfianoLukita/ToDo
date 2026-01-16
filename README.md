@@ -11,7 +11,10 @@ because I'm just learning CRUD so it's still very basic.
 - add task
 - delete task
 - checked task
+- your tasks are saved in local storage 
 
+##Live Preview
+https://alfianolukita.github.io/ToDo
 
 ## Author
 © AlfianoLukita 2026 
