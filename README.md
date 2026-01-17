@@ -15,11 +15,16 @@ because I'm just learning CRUD so it's still very basic.
 - checked task
 - your tasks are saved in local storage 
 
-##Live Preview
+## preview
+![desktop](preview/desktop.jpg)
+
+![mobile](preview/mobile.jpg)
+
+## Live Preview
 https://alfianolukita.github.io/ToDo
 
 ## Author
 © AlfianoLukita 2026 
-This project is MIT licensed. You can use and modify it, but please keep credit. 
+This project is MIT licensed. Youcan use and modify it, but please keep credit. 
 
 ## Version v0.0.3
